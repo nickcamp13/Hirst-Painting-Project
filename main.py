@@ -23,6 +23,7 @@ color_list = [(222, 163, 66), (19, 45, 87), (136, 61, 84), (177, 60, 44), (239, 
 
 screen = Screen()
 t = Turtle()
+t.hideturtle()
 t.speed("fastest")
 t.penup()
 t.setpos(-320, -270)
